@@ -1,0 +1,1394 @@
+[
+  {
+    "id": 614962099,
+    "name": "Published Date",
+    "dataTypeName": "calendar_date",
+    "description": "Date data published",
+    "fieldName": "published_date",
+    "position": 1,
+    "renderTypeName": "calendar_date",
+    "tableColumnId": 152608658,
+    "cachedContents": {
+      "non_null": "259491",
+      "largest": "2026-05-12T00:00:00.000",
+      "null": "0",
+      "top": [
+        {
+          "item": "2025-05-01T00:00:00.000",
+          "count": "134321"
+        },
+        {
+          "item": "2024-04-24T00:00:00.000",
+          "count": "63825"
+        },
+        {
+          "item": "2026-05-12T00:00:00.000",
+          "count": "61345"
+        }
+      ],
+      "smallest": "2024-04-24T00:00:00.000",
+      "count": "259491",
+      "cardinality": "259491"
+    },
+    "format": {
+      "view": "date",
+      "decimalSeparator": ".",
+      "groupSeparator": ","
+    }
+  },
+  {
+    "id": 614962100,
+    "name": "Project Id",
+    "dataTypeName": "text",
+    "description": "Capital Project Identification Number",
+    "fieldName": "project_id",
+    "position": 2,
+    "renderTypeName": "text",
+    "tableColumnId": 152608657,
+    "cachedContents": {
+      "non_null": "259491",
+      "largest": "Technology Enhancements",
+      "null": "0",
+      "top": [
+        {
+          "item": "846 P-6TREPLS",
+          "count": "453"
+        },
+        {
+          "item": "126 PVDCLAEMR",
+          "count": "373"
+        },
+        {
+          "item": "040 SCA25",
+          "count": "226"
+        },
+        {
+          "item": "850 EC-SEC24",
+          "count": "210"
+        },
+        {
+          "item": "850 EC-SEC25",
+          "count": "210"
+        },
+        {
+          "item": "846 P-6TREESB",
+          "count": "200"
+        },
+        {
+          "item": "040 SCA26",
+          "count": "189"
+        },
+        {
+          "item": "850 SANDRDHK",
+          "count": "165"
+        },
+        {
+          "item": "850 EC-LC26",
+          "count": "160"
+        },
+        {
+          "item": "037 LN24PCPR",
+          "count": "153"
+        },
+        {
+          "item": "850 SELCDDC11",
+          "count": "151"
+        },
+        {
+          "item": "850 EC-SEC23",
+          "count": "149"
+        },
+        {
+          "item": "850 HWQ1190A",
+          "count": "147"
+        },
+        {
+          "item": "850 HWK876",
+          "count": "147"
+        },
+        {
+          "item": "846 P-6TREPLN",
+          "count": "146"
+        },
+        {
+          "item": "850 HWQ662G",
+          "count": "142"
+        },
+        {
+          "item": "841 HW349LUM",
+          "count": "137"
+        },
+        {
+          "item": "841 HWCWREC",
+          "count": "137"
+        },
+        {
+          "item": "850 HWQ121B3",
+          "count": "131"
+        },
+        {
+          "item": "850 SEX200400",
+          "count": "131"
+        }
+      ],
+      "smallest": "035 L21FREEZE",
+      "count": "259491",
+      "cardinality": "259491"
+    },
+    "format": {
+
+    }
+  },
+  {
+    "id": 614962101,
+    "name": "Project Description",
+    "dataTypeName": "text",
+    "description": "Description of the Capital Project",
+    "fieldName": "project_description",
+    "position": 3,
+    "renderTypeName": "text",
+    "tableColumnId": 152608656,
+    "cachedContents": {
+      "non_null": "259331",
+      "largest": "ZIMMERMAN PLAYGROUND BATHROOM RENOVATIONS",
+      "null": "160",
+      "top": [
+        {
+          "item": "Emergency Reconstruction of Sewers, Citywide",
+          "count": "531"
+        },
+        {
+          "item": "Citywide Street/Park Tree Replacement (Restitution) Lump Sum",
+          "count": "453"
+        },
+        {
+          "item": "Emergency Sewer Lining Contract, Citywide",
+          "count": "411"
+        },
+        {
+          "item": "DCLA Emergency",
+          "count": "373"
+        },
+        {
+          "item": "Emergency Construction of Sewers, Citywide",
+          "count": "359"
+        },
+        {
+          "item": "Supportive Housing",
+          "count": "331"
+        },
+        {
+          "item": "SURVEYS FOR SEWERS IN STATEN ISLAND AND C/W",
+          "count": "330"
+        },
+        {
+          "item": "JOB ORDER CONTRACTING WORK IN REGIONS NORTH, SOUTH & EAST",
+          "count": "315"
+        },
+        {
+          "item": "DDC Sewer Lining Contract, Citywide",
+          "count": "311"
+        },
+        {
+          "item": "SURVEYS FOR SEWERS IN QUEENS AND C/W",
+          "count": "297"
+        },
+        {
+          "item": "SURVEYS FOR SEWERS IN BRONX  AND C/W",
+          "count": "294"
+        },
+        {
+          "item": "SURVEYS FOR SEWERS IN MANHATTAN  AND C/W",
+          "count": "277"
+        },
+        {
+          "item": "SURVEYS FOR SEWERS IN BROOKLYN AND C/W",
+          "count": "261"
+        },
+        {
+          "item": "SCA25",
+          "count": "226"
+        },
+        {
+          "item": "Standard boring contract sewer and watermain",
+          "count": "210"
+        },
+        {
+          "item": "Citywide Complex Pedestrian Ramps - Brooklyn",
+          "count": "200"
+        },
+        {
+          "item": "EMERGENCY LINING CONTRACT, CITYWIDE",
+          "count": "200"
+        },
+        {
+          "item": "Citywide Street Tree Planting Lump Sum",
+          "count": "200"
+        },
+        {
+          "item": "HPD GREEN PROGRAM",
+          "count": "196"
+        },
+        {
+          "item": "SCA26",
+          "count": "189"
+        }
+      ],
+      "smallest": "0FIT - Chiller Optimization at FIT Building D",
+      "count": "259491",
+      "cardinality": "259491"
+    },
+    "format": {
+
+    }
+  },
+  {
+    "id": 614962102,
+    "name": "Budget Line",
+    "dataTypeName": "text",
+    "description": "Identifier of a Capital Unit of Appropriation ",
+    "fieldName": "budget_line",
+    "position": 4,
+    "renderTypeName": "text",
+    "tableColumnId": 152608655,
+    "cachedContents": {
+      "non_null": "259326",
+      "largest": "WPD169",
+      "null": "165",
+      "top": [
+        {
+          "item": "P 1018",
+          "count": "14546"
+        },
+        {
+          "item": "HO0214",
+          "count": "8027"
+        },
+        {
+          "item": "WM0001",
+          "count": "6207"
+        },
+        {
+          "item": "PU0025",
+          "count": "5320"
+        },
+        {
+          "item": "HOD003",
+          "count": "4745"
+        },
+        {
+          "item": "HW0200",
+          "count": "4715"
+        },
+        {
+          "item": "HND300",
+          "count": "3820"
+        },
+        {
+          "item": "HAD001",
+          "count": "3462"
+        },
+        {
+          "item": "P D018",
+          "count": "3108"
+        },
+        {
+          "item": "P D017",
+          "count": "2982"
+        },
+        {
+          "item": "PU0016",
+          "count": "2980"
+        },
+        {
+          "item": "ED0075",
+          "count": "2970"
+        },
+        {
+          "item": "P D019",
+          "count": "2950"
+        },
+        {
+          "item": "WP0112",
+          "count": "2454"
+        },
+        {
+          "item": "PV0467",
+          "count": "2150"
+        },
+        {
+          "item": "PO0079",
+          "count": "2125"
+        },
+        {
+          "item": "EP0007",
+          "count": "2102"
+        },
+        {
+          "item": "PW0077",
+          "count": "1990"
+        },
+        {
+          "item": "HA0001",
+          "count": "1950"
+        },
+        {
+          "item": "WM0030",
+          "count": "1842"
+        }
+      ],
+      "smallest": "AG0001",
+      "count": "259491",
+      "cardinality": "259491"
+    },
+    "format": {
+
+    }
+  },
+  {
+    "id": 614962103,
+    "name": "Budget Line Title",
+    "dataTypeName": "text",
+    "description": "Brief description of what can be charged to a particular Budget Line",
+    "fieldName": "budget_line_title",
+    "position": 5,
+    "renderTypeName": "text",
+    "tableColumnId": 152608654,
+    "cachedContents": {
+      "non_null": "259012",
+      "largest": "YOUTH DESIGN CENTER",
+      "null": "479",
+      "top": [
+        {
+          "item": "PARK IMPROVEMENTS, ALL BOROUGHS.",
+          "count": "14546"
+        },
+        {
+          "item": "HOSPITALS, IMPROVEMENTS",
+          "count": "8027"
+        },
+        {
+          "item": "WATER MAIN EXTENSIONS, CITYWIDE",
+          "count": "6207"
+        },
+        {
+          "item": "ENERGY EFFICIENCY AND SUSTAINABILITY",
+          "count": "5320"
+        },
+        {
+          "item": "HOSPITALS, CITYWIDE",
+          "count": "4745"
+        },
+        {
+          "item": "SIDEWALK CONSTRUCTION",
+          "count": "4715"
+        },
+        {
+          "item": "CONSTRUCTION AND IMPROVEMENTS TO CUNY SENIOR COLLEGE BLDGS, CITYWIDE",
+          "count": "4519"
+        },
+        {
+          "item": "CONSTRUCTION AND IMPROVEMENTS TO CUNY COMMUNITY COLLEGES, CITYWIDE",
+          "count": "3923"
+        },
+        {
+          "item": "HOUSING AUTHORITY CITY COUNCIL CAPITAL SUBSIDIES",
+          "count": "3462"
+        },
+        {
+          "item": "MISCELLANEOUS PARKS, PARKWAYS, PLAYGROUNDS AND STRUCTURES: MANHATTAN",
+          "count": "3108"
+        },
+        {
+          "item": "MISCELLANEOUS PARKS,  PARKWAYS, PLAYGROUNDS, AND STRUCTURES: BKLYN",
+          "count": "2982"
+        },
+        {
+          "item": "PURCHASE OF ELECTRONIC DATA PROCESSING SOFTWARE, HARDWARE AND INFRA.",
+          "count": "2980"
+        },
+        {
+          "item": "ACQUISITION, SITE DEVELOPMENT, CONSTRUCTION & RECONSTRUCTION, CITYWIDE",
+          "count": "2970"
+        },
+        {
+          "item": "MISCELLANEOUS PARKS, PARKWAYS, PLAYGROUNDS AND STRUCTURES: QUEENS",
+          "count": "2950"
+        },
+        {
+          "item": "CONSTRUCTION, IMPROVEMENTS, ACQUISITION, ALL CULTURAL INSTITUTIONS",
+          "count": "2926"
+        },
+        {
+          "item": "MISCELLANEOUS PARKS, PLAYGROUNDS, CONSTRUCTION, RECONSTRUCTION, QUEENS",
+          "count": "2903"
+        },
+        {
+          "item": "RECONSTRUCTION OF WATER POLLUTION CONTROL PROJECTS",
+          "count": "2454"
+        },
+        {
+          "item": "CON, RECON, IMPVTS, ACQ, OUTFIT AND EQUIP, BRANCH LIBRARIES, QNS",
+          "count": "2308"
+        },
+        {
+          "item": "PUBLIC BUILDINGS & OTHER CITY PURPOSES, CITYWIDE",
+          "count": "2283"
+        },
+        {
+          "item": "MISCELLANEOUS PARKS, PLAYGROUNDS, CONSTRUCTION, RECONSTRUCTION, MAN.",
+          "count": "2280"
+        }
+      ],
+      "smallest": "0",
+      "count": "259491",
+      "cardinality": "259491"
+    },
+    "format": {
+
+    }
+  },
+  {
+    "id": 614962104,
+    "name": "Asset Category",
+    "dataTypeName": "text",
+    "description": "Type of capital project",
+    "fieldName": "asset_category",
+    "position": 6,
+    "renderTypeName": "text",
+    "tableColumnId": 152608653,
+    "cachedContents": {
+      "non_null": "251591",
+      "largest": "Water Supply Infrastructure",
+      "null": "7900",
+      "top": [
+        {
+          "item": "Buildings & Facilities",
+          "count": "97701"
+        },
+        {
+          "item": "Street & Road Projects",
+          "count": "26525"
+        },
+        {
+          "item": "Equipment",
+          "count": "25883"
+        },
+        {
+          "item": "Public Space & Recreation",
+          "count": "18822"
+        },
+        {
+          "item": "Green & Natural Space",
+          "count": "14027"
+        },
+        {
+          "item": "Sewers & Grey Infrastructure",
+          "count": "13455"
+        },
+        {
+          "item": "IT & Technology",
+          "count": "12258"
+        },
+        {
+          "item": "Vehicles",
+          "count": "8211"
+        },
+        {
+          "item": "Waterfront Assets",
+          "count": "7995"
+        },
+        {
+          "item": "Water Supply Infrastructure",
+          "count": "7907"
+        },
+        {
+          "item": "Special Projects",
+          "count": "4666"
+        },
+        {
+          "item": "Energy & Utilities",
+          "count": "4277"
+        },
+        {
+          "item": "It & Technology",
+          "count": "3630"
+        },
+        {
+          "item": "Other",
+          "count": "2180"
+        },
+        {
+          "item": "Green Infrastructure",
+          "count": "2141"
+        },
+        {
+          "item": "Site Development",
+          "count": "1728"
+        },
+        {
+          "item": "Land Acquisition",
+          "count": "185"
+        }
+      ],
+      "smallest": "Buildings & Facilities",
+      "count": "259491",
+      "cardinality": "259491"
+    },
+    "format": {
+
+    }
+  },
+  {
+    "id": 614962124,
+    "name": "Greenhouse Gas (GHG) Mitigation Tracking Category",
+    "dataTypeName": "text",
+    "description": "climate priority tracking category",
+    "fieldName": "ghg_mitigation_tracking_category",
+    "position": 7,
+    "renderTypeName": "text",
+    "tableColumnId": 160448155,
+    "cachedContents": {
+      "non_null": "20919",
+      "largest": "Wind Energy",
+      "null": "238572",
+      "top": [
+        {
+          "item": "Net-Zero Compatible (non-DEM)",
+          "count": "5560"
+        },
+        {
+          "item": "Buildings & Facilities - other than ACE Projects",
+          "count": "4818"
+        },
+        {
+          "item": "Buildings & Facilities - ACE Projects",
+          "count": "3212"
+        },
+        {
+          "item": "DEM-Funded",
+          "count": "1425"
+        },
+        {
+          "item": "Other Sustainability (non-DEM)",
+          "count": "1235"
+        },
+        {
+          "item": "Bike Lane Infrastructure",
+          "count": "775"
+        },
+        {
+          "item": "Energy - Solar Energy",
+          "count": "583"
+        },
+        {
+          "item": "Transportation (Infrastructure) - Bike Lane Infrastructure",
+          "count": "418"
+        },
+        {
+          "item": "Ferries Infrastructure",
+          "count": "405"
+        },
+        {
+          "item": "Transportation (Fleet) - Fleet Fuel Efficiency",
+          "count": "330"
+        },
+        {
+          "item": "Transportation (Infrastructure) - Bus Lane Infrastructure",
+          "count": "275"
+        },
+        {
+          "item": "Fleet Fuel Efficiency",
+          "count": "220"
+        },
+        {
+          "item": "Solar Energy",
+          "count": "215"
+        },
+        {
+          "item": "Transportation (Fleet) - Fleet Electrification",
+          "count": "187"
+        },
+        {
+          "item": "Bus Lane Infrastructure",
+          "count": "165"
+        },
+        {
+          "item": "Waste - Other Waste Projects",
+          "count": "143"
+        },
+        {
+          "item": "Other Waste Projects",
+          "count": "125"
+        },
+        {
+          "item": "Fleet Electrification",
+          "count": "120"
+        },
+        {
+          "item": "Transportation (Infrastructure) - EV Charging Infrastructure",
+          "count": "88"
+        },
+        {
+          "item": "Other Energy Projects",
+          "count": "80"
+        }
+      ],
+      "smallest": "Bike Lane Infrastructure",
+      "count": "259491",
+      "cardinality": "259491"
+    },
+    "format": {
+
+    }
+  },
+  {
+    "id": 614962123,
+    "name": "Flood Resiliency Tracking Category",
+    "dataTypeName": "text",
+    "description": "Climate priority tracking category",
+    "fieldName": "flood_resiliency_tracking_category",
+    "position": 8,
+    "renderTypeName": "text",
+    "tableColumnId": 160448154,
+    "cachedContents": {
+      "non_null": "8665",
+      "largest": "Wetland Restoration",
+      "null": "250826",
+      "top": [
+        {
+          "item": "Sewers non Southeast Queens",
+          "count": "2085"
+        },
+        {
+          "item": "0",
+          "count": "1840"
+        },
+        {
+          "item": "Tree Plantings",
+          "count": "910"
+        },
+        {
+          "item": "Other Coastal Resiliency Projects",
+          "count": "820"
+        },
+        {
+          "item": "Flood Protection for Buildings",
+          "count": "610"
+        },
+        {
+          "item": "Southeast Queens Sewers Buildout",
+          "count": "555"
+        },
+        {
+          "item": "Green Infrastructure",
+          "count": "435"
+        },
+        {
+          "item": "Emergency Generators",
+          "count": "280"
+        },
+        {
+          "item": "Wetland Restoration",
+          "count": "215"
+        },
+        {
+          "item": "Bluebelts",
+          "count": "210"
+        },
+        {
+          "item": "Other Resiliency Projects",
+          "count": "130"
+        },
+        {
+          "item": "Cloudburst Management",
+          "count": "115"
+        },
+        {
+          "item": "Combined Sewer Overflow Management",
+          "count": "110"
+        },
+        {
+          "item": "Sewers Flood Priority Areas",
+          "count": "90"
+        },
+        {
+          "item": "US Army Corps of Engineers Projects",
+          "count": "60"
+        },
+        {
+          "item": "Other",
+          "count": "55"
+        },
+        {
+          "item": "East Side Coastal Resiliency",
+          "count": "50"
+        },
+        {
+          "item": "Red Hook Coastal Resiliency",
+          "count": "35"
+        },
+        {
+          "item": "Raised Shorelines",
+          "count": "15"
+        },
+        {
+          "item": "Tottenville Shoreline Protection",
+          "count": "15"
+        }
+      ],
+      "smallest": "0",
+      "count": "259491",
+      "cardinality": "259491"
+    },
+    "format": {
+
+    }
+  },
+  {
+    "id": 614962122,
+    "name": "Heat Resiliency Tracking Category",
+    "dataTypeName": "text",
+    "description": "Climate priority tracking category",
+    "fieldName": "heat_resiliency_tracking_category",
+    "position": 9,
+    "renderTypeName": "text",
+    "tableColumnId": 160448153,
+    "cachedContents": {
+      "non_null": "15397",
+      "largest": "Wetland Restoration",
+      "null": "244094",
+      "top": [
+        {
+          "item": "0",
+          "count": "5315"
+        },
+        {
+          "item": "Cooling Upgrades in Buildings",
+          "count": "3347"
+        },
+        {
+          "item": "Tree Plantings",
+          "count": "3099"
+        },
+        {
+          "item": "Emergency Generators",
+          "count": "1006"
+        },
+        {
+          "item": "Recreation & Nature Centers",
+          "count": "913"
+        },
+        {
+          "item": "Pools",
+          "count": "710"
+        },
+        {
+          "item": "Wetland Restoration",
+          "count": "611"
+        },
+        {
+          "item": "Cooling Features in Public Spaces",
+          "count": "231"
+        },
+        {
+          "item": "Other",
+          "count": "99"
+        },
+        {
+          "item": "Heat - Cooling Upgrades in Buildings",
+          "count": "66"
+        }
+      ],
+      "smallest": "0",
+      "count": "259491",
+      "cardinality": "259491"
+    },
+    "format": {
+
+    }
+  },
+  {
+    "id": 614962120,
+    "name": "Heat Vulnerability Index",
+    "dataTypeName": "text",
+    "description": "Indicates if a project is located in a high heat area.",
+    "fieldName": "heat_vulnerability_index",
+    "position": 10,
+    "renderTypeName": "text",
+    "tableColumnId": 160448151,
+    "cachedContents": {
+      "non_null": "96908",
+      "largest": "True",
+      "null": "162583",
+      "top": [
+        {
+          "item": "false",
+          "count": "54115"
+        },
+        {
+          "item": "False",
+          "count": "22297"
+        },
+        {
+          "item": "True",
+          "count": "13266"
+        },
+        {
+          "item": "true",
+          "count": "7230"
+        }
+      ],
+      "smallest": "false",
+      "count": "259491",
+      "cardinality": "259491"
+    },
+    "format": {
+
+    }
+  },
+  {
+    "id": 614962121,
+    "name": "Flood Vulnerability Index",
+    "dataTypeName": "text",
+    "description": "Indicates if a project is located in a high flood zone",
+    "fieldName": "flood_vulnerability_index",
+    "position": 11,
+    "renderTypeName": "text",
+    "tableColumnId": 160448152,
+    "cachedContents": {
+      "non_null": "96897",
+      "largest": "True",
+      "null": "162594",
+      "top": [
+        {
+          "item": "false",
+          "count": "54775"
+        },
+        {
+          "item": "False",
+          "count": "22616"
+        },
+        {
+          "item": "True",
+          "count": "12936"
+        },
+        {
+          "item": "true",
+          "count": "6570"
+        }
+      ],
+      "smallest": "false",
+      "count": "259491",
+      "cardinality": "259491"
+    },
+    "format": {
+
+    }
+  },
+  {
+    "id": 614962106,
+    "name": "Greenhouse Gas (GHG) Mitigation",
+    "dataTypeName": "text",
+    "description": "Rating for alignment with greenhouse gas mitigation",
+    "fieldName": "ghg_mitigation",
+    "position": 12,
+    "renderTypeName": "text",
+    "tableColumnId": 152608651,
+    "cachedContents": {
+      "non_null": "259491",
+      "largest": "Special Projects",
+      "null": "0",
+      "top": [
+        {
+          "item": "No Impact",
+          "count": "138759"
+        },
+        {
+          "item": "Pending Rating",
+          "count": "57980"
+        },
+        {
+          "item": "Aligned Component",
+          "count": "22941"
+        },
+        {
+          "item": "Not Rated",
+          "count": "10750"
+        },
+        {
+          "item": "Aligned",
+          "count": "8219"
+        },
+        {
+          "item": "Not Aligned",
+          "count": "7842"
+        },
+        {
+          "item": "Not Aligned (Short-Term Benefit)",
+          "count": "6893"
+        },
+        {
+          "item": "Special Projects",
+          "count": "4522"
+        },
+        {
+          "item": "Special Cases",
+          "count": "1585"
+        }
+      ],
+      "smallest": "Aligned",
+      "count": "259491",
+      "cardinality": "259491"
+    },
+    "format": {
+
+    }
+  },
+  {
+    "id": 614962107,
+    "name": "Flood Resiliency",
+    "dataTypeName": "text",
+    "description": "Rating for alignment with flood resiliency",
+    "fieldName": "flood_resiliency",
+    "position": 13,
+    "renderTypeName": "text",
+    "tableColumnId": 152608650,
+    "cachedContents": {
+      "non_null": "259491",
+      "largest": "Special Projects",
+      "null": "0",
+      "top": [
+        {
+          "item": "No Impact",
+          "count": "121037"
+        },
+        {
+          "item": "Pending Rating",
+          "count": "65458"
+        },
+        {
+          "item": "Aligned Component",
+          "count": "35666"
+        },
+        {
+          "item": "Aligned",
+          "count": "18452"
+        },
+        {
+          "item": "Not Rated",
+          "count": "10750"
+        },
+        {
+          "item": "Special Projects",
+          "count": "4671"
+        },
+        {
+          "item": "Missed Opportunity",
+          "count": "1737"
+        },
+        {
+          "item": "Special Cases",
+          "count": "1655"
+        },
+        {
+          "item": "Not Aligned",
+          "count": "65"
+        }
+      ],
+      "smallest": "Aligned",
+      "count": "259491",
+      "cardinality": "259491"
+    },
+    "format": {
+
+    }
+  },
+  {
+    "id": 614962108,
+    "name": "Heat Resiliency",
+    "dataTypeName": "text",
+    "description": "Rating for alignment with heat resiliency",
+    "fieldName": "heat_resiliency",
+    "position": 14,
+    "renderTypeName": "text",
+    "tableColumnId": 152608649,
+    "cachedContents": {
+      "non_null": "259491",
+      "largest": "Special Projects",
+      "null": "0",
+      "top": [
+        {
+          "item": "No Impact",
+          "count": "133424"
+        },
+        {
+          "item": "Pending Rating",
+          "count": "62304"
+        },
+        {
+          "item": "Aligned Component",
+          "count": "35889"
+        },
+        {
+          "item": "Not Rated",
+          "count": "10750"
+        },
+        {
+          "item": "Aligned",
+          "count": "10037"
+        },
+        {
+          "item": "Special Projects",
+          "count": "4703"
+        },
+        {
+          "item": "Special Cases",
+          "count": "1615"
+        },
+        {
+          "item": "Missed Opportunity",
+          "count": "679"
+        },
+        {
+          "item": "Not Aligned",
+          "count": "90"
+        }
+      ],
+      "smallest": "Aligned",
+      "count": "259491",
+      "cardinality": "259491"
+    },
+    "format": {
+
+    }
+  },
+  {
+    "id": 614962119,
+    "name": "Environmental and Social Benefits",
+    "dataTypeName": "text",
+    "description": "Environmental and social benefits of projects beyond emissions and resiliency ratings",
+    "fieldName": "environmental_and_social_benefits",
+    "position": 15,
+    "renderTypeName": "text",
+    "tableColumnId": 160448150,
+    "cachedContents": {
+      "non_null": "99694",
+      "largest": "Water Quality, Exposure to Hazardous Materials, Exposure to Climate Change",
+      "null": "159797",
+      "top": [
+        {
+          "item": "Access to Resources",
+          "count": "15425"
+        },
+        {
+          "item": "Access to Safe & Healthy Housing",
+          "count": "12924"
+        },
+        {
+          "item": "Water Quality, Exposure to Climate Change",
+          "count": "10029"
+        },
+        {
+          "item": "Water Quality",
+          "count": "9349"
+        },
+        {
+          "item": "Exposure to Climate Change",
+          "count": "7170"
+        },
+        {
+          "item": "Access to Resources, Air Quality",
+          "count": "6348"
+        },
+        {
+          "item": "Air Quality",
+          "count": "6286"
+        },
+        {
+          "item": "Ecology",
+          "count": "5935"
+        },
+        {
+          "item": "Access to Resources, Air Quality, Exposure to Climate Change",
+          "count": "4933"
+        },
+        {
+          "item": "Access to Resources, Water Quality, Air Quality, Exposure to Climate Change",
+          "count": "3518"
+        },
+        {
+          "item": "Ecology, AQ",
+          "count": "2810"
+        },
+        {
+          "item": "Access to Resources, Exposure to Climate Change",
+          "count": "1903"
+        },
+        {
+          "item": "AQ",
+          "count": "1790"
+        },
+        {
+          "item": "Air Quality, Exposure to Climate Change",
+          "count": "1295"
+        },
+        {
+          "item": "Sustainable Living",
+          "count": "1190"
+        },
+        {
+          "item": "Water Quality, Air Quality, Exposure to Climate Change",
+          "count": "913"
+        },
+        {
+          "item": "Ecology, AQ, Sustainable Living",
+          "count": "855"
+        },
+        {
+          "item": "Exposure to Hazardous Materials",
+          "count": "739"
+        },
+        {
+          "item": "Access to Resources, Access to Safe & Healthy Housing",
+          "count": "707"
+        },
+        {
+          "item": "Access to Resources, Water Quality, Air Quality",
+          "count": "574"
+        }
+      ],
+      "smallest": "Access to Resources",
+      "count": "259491",
+      "cardinality": "259491"
+    },
+    "format": {
+
+    }
+  },
+  {
+    "id": 614962118,
+    "name": "Financial Plan",
+    "dataTypeName": "text",
+    "description": "Title of the associated Financial Plan",
+    "fieldName": "financial_plan",
+    "position": 16,
+    "renderTypeName": "text",
+    "tableColumnId": 160448149,
+    "cachedContents": {
+      "non_null": "259491",
+      "largest": "Fiscal Year 2027 Executive Budget",
+      "null": "0",
+      "top": [
+        {
+          "item": "Fiscal Year 2026 Executive Budget",
+          "count": "134321"
+        },
+        {
+          "item": "Fiscal Year 2025 Executive Budget",
+          "count": "63825"
+        },
+        {
+          "item": "Fiscal Year 2027 Executive Budget",
+          "count": "61345"
+        }
+      ],
+      "smallest": "Fiscal Year 2025 Executive Budget",
+      "count": "259491",
+      "cardinality": "259491"
+    },
+    "format": {
+
+    }
+  },
+  {
+    "id": 614962110,
+    "name": "Fiscal Year",
+    "dataTypeName": "number",
+    "description": "Defines fiscal year for each record",
+    "fieldName": "first_fiscal_year",
+    "position": 17,
+    "renderTypeName": "number",
+    "tableColumnId": 152608647,
+    "cachedContents": {
+      "non_null": "259491",
+      "largest": "2035",
+      "null": "0",
+      "top": [
+        {
+          "item": "2026",
+          "count": "37245"
+        },
+        {
+          "item": "2027",
+          "count": "37245"
+        },
+        {
+          "item": "2028",
+          "count": "37245"
+        },
+        {
+          "item": "2029",
+          "count": "37245"
+        },
+        {
+          "item": "2025",
+          "count": "24976"
+        },
+        {
+          "item": "2030",
+          "count": "24480"
+        },
+        {
+          "item": "2031",
+          "count": "12211"
+        },
+        {
+          "item": "2032",
+          "count": "12211"
+        },
+        {
+          "item": "2033",
+          "count": "12211"
+        },
+        {
+          "item": "2034",
+          "count": "12211"
+        },
+        {
+          "item": "2035",
+          "count": "12211"
+        }
+      ],
+      "smallest": "2025",
+      "count": "259491",
+      "cardinality": "259491"
+    },
+    "format": {
+      "decimalSeparator": ".",
+      "groupSeparator": ","
+    }
+  },
+  {
+    "id": 614962117,
+    "name": "Fiscal Year Amount",
+    "dataTypeName": "text",
+    "description": "The amount of funding allocated in the given fiscal year",
+    "fieldName": "fiscal_year_amount",
+    "position": 18,
+    "renderTypeName": "text",
+    "tableColumnId": 160448148,
+    "cachedContents": {
+      "non_null": "259491",
+      "largest": "9998",
+      "null": "0",
+      "top": [
+        {
+          "item": "0",
+          "count": "215856"
+        },
+        {
+          "item": "500",
+          "count": "948"
+        },
+        {
+          "item": "1",
+          "count": "947"
+        },
+        {
+          "item": "1000",
+          "count": "909"
+        },
+        {
+          "item": "250",
+          "count": "522"
+        },
+        {
+          "item": "2000",
+          "count": "489"
+        },
+        {
+          "item": "100",
+          "count": "448"
+        },
+        {
+          "item": "200",
+          "count": "384"
+        },
+        {
+          "item": "1500",
+          "count": "360"
+        },
+        {
+          "item": "300",
+          "count": "327"
+        },
+        {
+          "item": "150",
+          "count": "324"
+        },
+        {
+          "item": "5000",
+          "count": "285"
+        },
+        {
+          "item": "2",
+          "count": "258"
+        },
+        {
+          "item": "3000",
+          "count": "255"
+        },
+        {
+          "item": "50",
+          "count": "229"
+        },
+        {
+          "item": "4000",
+          "count": "229"
+        },
+        {
+          "item": "2500",
+          "count": "217"
+        },
+        {
+          "item": "750",
+          "count": "197"
+        },
+        {
+          "item": "3",
+          "count": "194"
+        },
+        {
+          "item": "400",
+          "count": "182"
+        }
+      ],
+      "smallest": "0",
+      "count": "259491",
+      "cardinality": "259491"
+    },
+    "format": {
+
+    }
+  },
+  {
+    "id": 614962116,
+    "name": "Remarks",
+    "dataTypeName": "text",
+    "description": "Remarks for a record",
+    "fieldName": "remarks",
+    "position": 19,
+    "renderTypeName": "text",
+    "tableColumnId": 152608659,
+    "cachedContents": {
+      "non_null": "0",
+      "null": "259491",
+      "count": "259491",
+      "cardinality": "259491"
+    },
+    "format": {
+
+    }
+  }
+]

@@ -1,0 +1,8 @@
+BASI Dataset Collection:
+
+Idea 1: Analyze data to predict employment trends and inform institutes for curriculum update/upgrade.
+
+Idea 2: Analyze data to find out which parts of the UK are famous for what sort of jobs. For example, London is famous for tech jobs. Norwich is best for environment-related jobs etc. 
+
+Question to ask sir: 
+- Is a dashboard required, as the document only mentions visualization of query results. 

@@ -1,0 +1,37 @@
+# Python virtual environments
+/env/
+/.venv/
+/venv/
+
+# Project data
+/datasets/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python tooling and build artifacts
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+/build/
+/dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local environment and logs
+.env
+.env.*
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db

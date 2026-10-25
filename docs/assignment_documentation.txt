@@ -1,0 +1,6 @@
+Use of GenAI for:
+1. Business Understanding
+
+- Using Claud to understand what the different columns mean. For example, what is a budget line, or what does its description, ' Identifier of a Capital Unit of Appropriation,' refer to?
+
+- Using Claud to understand the terminology used in the published dataset, such as 'Aligned', 'Not Aligned' etc. 
