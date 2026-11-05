@@ -1,0 +1,4 @@
+Questions to Ask Dr. Adrian Benfell:
+
+1. Do we have to use a machine learning model to answer a question?
+1.1 In that case, we usually answer only one question: the main business problem. For example, Why are most of the projects still pending a climate rating?
