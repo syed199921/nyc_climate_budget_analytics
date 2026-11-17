@@ -1,0 +1,36 @@
+,
+,
+,
+,
+,
+,
+,
+Data Dictionary - Dataset Information,
+Dataset Name,Climate Alignment Assessment and Capital Climate Investments
+Dataset URL,https://data.cityofnewyork.us/d/c99a-c5ux/
+"Data Provided by
+The name of the NYC agency providing this data to the public.",Office of Management and Budget (OMB)
+"Each row is a... 
+The unit of analysis/level of aggregation of the dataset",project in the capital plan.  
+"Publishing Frequency
+How often changed data is published to this dataset. For an automatically updated dataset, this is the frequency of that automation",Annually
+"Data Change Frequency
+How often the data underlying this dataset is changed",Annually
+"Frequency Details
+Additional details about the publishing or data change frequency, if needed",This dataset will be updated once per year with the release of the Executive Budget.
+"Dataset Description
+Overview of the information this dataset contains, including overall context and definitions of key terms. This field may include links to supporting datasets, agency websites, or external resources for additional context. ",This dataset rates all projects in the capital budget with their climate alignment and categorizes investments that are related to climate. Amounts are in thousands. This dataset will be updated once a year during the Executive Budget. 
+"Why is this data collected?
+Purpose behind the collection of this data, including any legal or policy requirements for this data by NYC Executive Order, Local Law, or other policy directive.",To meet requirement in Section 258.1 In the City Charter. This data is collected to support New York City's Climate Budgeting initiative and to assess NYC's progress towards its climate goals. This data shows how much of the city's current capital budget is aligned with the city's climate goals. 
+"How is this data collected?
+The methods used to create and update this dataset, including what cleaning or processing was involved prior to dataset publication.
+If data collection includes interpreting physical information this field includes technical details. 
+If data collection includes fielding applications, requests, or complaints, this field includes details about the forms, applications, and processes used.  ",OMB's Environmental Sustainability and Resiliency (ESR) Taskforce used information from the city's financial management system and did a manual analysis to determine the alignment of capital projects and relevant climate tracking category.
+"How can this data be used?
+Examples of and/or links to projects or agency operations that have used this dataset.
+Where relevant, includes links to online projects, agency websites, visualizations, maps, or dashboards.
+What are some questions one might answer using this dataset?","This data can be used to create visualizations similar to the charts featured in the Climate Investments section of the latest New York City Climate Budgeting ""Climate Investments in the Capital Plan"" (https://www.nyc.gov/content/omb/pages/what-we-do/climate-budgeting)."
+"What are the unique characteristics or limitations of this dataset?
+Unique characteristics of this dataset to be aware of, specifically, constraints or limitations to the use of the data.",
+"Additional geospatial information
+For any datasets with geospatial data, specify the coordinate reference system or projection used and other relevant details.",

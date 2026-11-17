@@ -1,0 +1,6 @@
+Data Dictionary - Revision History,,
+"Description of all major changes to the format including what specific fields were added or removed, data calculation method, or method of collection of the data that have taken place since the initial version. Adding or updating new data values does not necessitate a new version entry. ",,
+Date,Change Highlights,Comments
+Filled in by Open Data Team prior to publication			,Creation of dataset,
+20250501,"Evaluated all projects instead of just over $50,000. Added columns for GHG Mitigation Tracking Category, Flood Resiliency Tracking Category, Heat Resiliency Tracking Category, Heat Vulnerability Index, Flood Vulnerability Index and Fiscal Year 6 - 11 Amount. ",
+5/29/2026,"Change contents for Each row is a, Dataset Description, and How can this dataset be used in the Dataset Information tab.",

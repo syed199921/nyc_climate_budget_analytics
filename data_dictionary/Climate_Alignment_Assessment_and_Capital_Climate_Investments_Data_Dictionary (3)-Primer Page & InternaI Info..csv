@@ -1,0 +1,16 @@
+Data Dictionary - Open Data Team Internal Information,
+"This section is used for internal purposes by the Open Data Team and can be ignored by external data users.
+
+Information shared in this section may be publicly displayed on the dataset’s primer page on NYC Open Data.  ",
+"Dataset Tags
+A list of comma-separated terms, based on the topic of the dataset, that will link to other datasets with that same tag. 
+
+Tags are used along with the dataset name and description to search NYC Open Data.","NYC OMB, Climate Budgeting, Executive Budget, Climate Alignment Assessment, Capital Climate Investments"
+Are rows removed from this dataset when the data is updated?,No
+Can this dataset be feasibly automated?,No
+"Is this data also present on a website maintained by or on behalf of the agency?
+If so, please provide the website URL.",https://www.nyc.gov/site/omb/publications/budget-reports.page?report=Climate%20Budgeting
+"What is the update frequency of the data on the agency's website?
+Only applicable if the data is also present on a website maintained by or on behalf of the agency ",Annually
+"Is the data on the agency's website updated automatically?
+Only applicable if the data is also present on a website maintained by or on behalf of the agency ",No
